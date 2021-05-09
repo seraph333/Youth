@@ -27,4 +27,4 @@ jobs:
       - name: '运行 【中青邀请阅读】'
         run: |
           cd ~/Youth
-          node workflow/youthshare.js
+          node Task/youthshare.js
