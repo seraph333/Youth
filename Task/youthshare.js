@@ -2,7 +2,7 @@ const $ = new Env('youthshare');
 let md5 = require('md5-node');
 let nowTime;
 let wxck;
-let articles = ["https://focus.youth.cn/article/s?signature=gENjGxJw2L6opAMamvL2ObCqvLwrHOxopVb1nX3kY58KdmBzRO&uid=48317856&phone_code=29a522d895c83da15782b837e67e366d&scid=39081845&time=1623887205&app_version=2.0.0&sign=6ceb5889d63b81d10166a63745a3f52a"
+let articles = ["https://focus.youth.cn/article/s?signature=6K3Zgj0LVrQbJw94VZWgE5IpMZ3KToNwv5d4mxB5qW8oDnvelE&uid=48317856&phone_code=29a522d895c83da15782b837e67e366d&scid=39077712&time=1623974664&app_version=2.0.0&sign=895859cea05ba3191828577c039137f3"
 ]
 
 let encodearticles;
